@@ -1,12 +1,3 @@
-AUTHORS
-	Jordan Henry
-	100827020
-	jordan.henry@carleton.ca
-
-	Ryan Lubin
-	100832924
-	ryan.lubin@carleton.ca
-
 VERSION
 	node v8.12.0
 	windows 10
